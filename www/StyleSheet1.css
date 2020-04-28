@@ -1,0 +1,110 @@
+﻿
+
+html, body{
+color:25274D;
+}
+
+body {
+    background-color: #25274D;
+}
+
+h1,h2,h3,h4,h5,th {
+   color:black;
+   font-family: 'Arial';
+
+
+}
+
+
+
+br{
+	color:#C5CBE3;
+}
+
+
+p{
+	color:white;
+}
+
+.navbar {
+    background-color: #464866;
+    border: 0px;
+}
+
+
+#navbar li {
+    background-color: #464866;
+    color: white;
+    border: 0px;
+}
+
+
+
+#navbar li a:hover {
+        background-color: #29648A;
+        color: white;
+        border: 0px;
+}
+
+    #navbar li a {
+        background-color: #464866;
+        color: white;
+        border: 0px;
+    }
+
+
+.selec .selectize-dropdown-content {
+    background-color: #464866;
+}
+
+.sidebar form.well {
+    background: #464866;
+    border: 0px;
+}
+
+
+#perf table {
+    width: 200px;
+	color:white;
+}
+
+#perf th {
+    background-color: #3b945e;
+    color:white;
+}
+
+#perf td:first-child {
+    width: 1000px;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+.confusionmat   tr,th,td {
+	padding:3px;
+  border: 1px solid #C5CBE3;
+   text-align: center
+}
+
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+a:link {
+  color: red;
+}
+
+
+
+li  {
+  color: white;
+}
